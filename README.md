@@ -2,7 +2,6 @@
 Local Website to analyse Facebook and Twitter data for football clubs.
 
 To View the website:
-
 Download SocialMedia.War
 Copy the WAR file into the webapps folder in Tomcat installation directory
 Start Apache Maven server
