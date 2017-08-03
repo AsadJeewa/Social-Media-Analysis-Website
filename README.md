@@ -10,3 +10,5 @@ Stop Apache Maven Server when complete<br />
 <br /><br />
 The WAR file can be run on another server (Glassfish, J2E etc)
 
+Thanks to Sivashen Reddy, Shaun Ambrose
+
